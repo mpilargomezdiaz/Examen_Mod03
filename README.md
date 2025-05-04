@@ -186,4 +186,4 @@ app.listen(PORT, () => {
   "stock": 10
 }'
 ```
-- Crea, usando docker-compose un contenedor que permita hacerle peticiones a la API y obtén capturas del proceso en las que se pueda ver que funciona.
+- Crea, usando docker-compose, un contenedor que permita hacerle peticiones a la API y obtén capturas del proceso en las que se pueda ver que funciona.
